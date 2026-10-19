@@ -25,3 +25,7 @@ players:
   - file: jparisu-nimsum.py
     class: NimSumBot
 
+
+  # Antonio y María bot
+  - file: xor_master.py
+    class: XorMaster
