@@ -26,6 +26,6 @@ players:
     class: NimSumBot
 
 
-  # Antonio y María bot
-  - file: xor_master.py
+  # antonioorteu bot
+  - file: antonioorteu-xormaster.py
     class: XorMaster
